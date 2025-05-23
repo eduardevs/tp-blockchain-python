@@ -39,3 +39,9 @@ Ce projet a été développé dans le cadre du Mastère SI (2024–2026) de l'ES
 git clone https://github.com/eduardevs/tp-blockchain-python.git
 cd tp-blockchain-python
 python tp_blockchain.py
+```
+
+👤 Auteur
+Nom : Eduardo PINA
+Mastère : Expert en Systèmes d’Information — ESGI (2024–2026)
+Matière : Sécurité en Python
